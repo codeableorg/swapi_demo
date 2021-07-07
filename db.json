@@ -1,4 +1,4 @@
-[
+{people: [
 		{
       "id": 1,
 			"name": "Luke Skywalker",
@@ -140,3 +140,4 @@
 			"url": "https://swapi.dev/api/people/10/"
 		}
 	]
+}
